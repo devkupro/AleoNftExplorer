@@ -36,6 +36,10 @@ Start the server
 
 ## Demo
 
-Search NFT data on Aleo chain
+Search NFT data on the Aleo chain
+
+
+
+https://github.com/devkupro/AleoNftExplorer/assets/85378793/80bd89b9-221a-415c-8178-f14625cbb119
 
 
